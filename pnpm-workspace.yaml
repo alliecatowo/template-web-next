@@ -1,0 +1,5 @@
+# pnpm skips dependency install scripts unless listed here.
+allowBuilds:
+  lefthook: true
+  sharp: true
+  unrs-resolver: true
