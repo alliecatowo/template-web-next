@@ -6,7 +6,7 @@ Guidance for AI agents (and humans) working in the **template-web-next** repo.
 
 ## What template-web-next is
 
-Next.js web app template: pnpm, Biome, vitest, Playwright, Vercel, mise, lefthook, CI and a VitePress docs site. A Next.js (App Router) app with Tailwind v4, deployed on Vercel.
+Next.js app template with CI, e2e tests and docs. A Next.js (App Router) app with Tailwind v4, deployed on Vercel.
 
 ## Commands
 

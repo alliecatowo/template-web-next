@@ -1,6 +1,6 @@
 # template-web-next
 
-Next.js web app template: pnpm, Biome, vitest, Playwright, Vercel, mise, lefthook, CI and a VitePress docs site.
+Next.js app template with CI, e2e tests and docs.
 
 ## Install
 

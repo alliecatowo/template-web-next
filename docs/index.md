@@ -2,7 +2,7 @@
 layout: home
 hero:
   name: "template-web-next"
-  tagline: "Next.js web app template: pnpm, Biome, vitest, Playwright, Vercel, mise, lefthook, CI and a VitePress docs site."
+  tagline: "Next.js app template with CI, e2e tests and docs."
   actions:
     - theme: brand
       text: Get started

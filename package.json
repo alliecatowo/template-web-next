@@ -2,7 +2,7 @@
   "name": "template-web-next",
   "version": "0.1.0",
   "private": true,
-  "description": "Next.js web app template: pnpm, Biome, vitest, Playwright, Vercel, mise, lefthook, CI and a VitePress docs site.",
+  "description": "Next.js app template with CI, e2e tests and docs.",
   "license": "MIT",
   "author": "Allison Coleman",
   "type": "module",

@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "template-web-next",
-  description: "Next.js web app template: pnpm, Biome, vitest, Playwright, Vercel, mise, lefthook, CI and a VitePress docs site.",
+  description: "Next.js app template with CI, e2e tests and docs.",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
